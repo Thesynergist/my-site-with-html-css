@@ -23,7 +23,7 @@ a {
   color: #11999E;
 }
 
-:hover {
+a:hover {
   color: #EAF6F6;
 }
 
@@ -60,6 +60,11 @@ body {
   position: absolute;
   right: 20%;
   top: 50px;
+}
+
+.mountain {
+	position: relative;
+    top: 5px;
 }
 
 .bottom-cloud {
